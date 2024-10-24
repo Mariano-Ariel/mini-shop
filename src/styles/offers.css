@@ -1,0 +1,25 @@
+.offers-banner {
+    width: 100%;
+    margin: 0;
+  }
+  
+  .offer-image {
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+  }
+  
+  .offer-slide {
+    position: relative;
+  }
+  
+  .offer-title {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+  }
+  

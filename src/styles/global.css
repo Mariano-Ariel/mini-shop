@@ -1,0 +1,19 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }  
+
+h1, h2, h3 {
+  color: #333;
+}
+
+header, footer {
+  background-color: #131921;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
